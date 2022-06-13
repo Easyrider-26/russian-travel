@@ -8,15 +8,13 @@
   max-width: 720px;
   width: 100%;
   text-align: center; 
-  box-sizing: border-box;
-  
+  box-sizing: border-box;  
 }
 
 @media screen and (max-width: 668px) {
   .lead__title {
     font-size: 60px;
     line-height: 1.1;
-
   }
 }
 
