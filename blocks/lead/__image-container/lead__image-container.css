@@ -7,24 +7,20 @@
     padding: 0 148px 8px;
 }
 
-
 @media screen and (max-width: 1140px) {
     .lead__image-container {
-
       padding: 0 48px 8px;
     }
   }
   
   @media screen and (max-width: 984px) {
     .lead__image-container {
-
       padding: 0 0 8px;
     }
   }
   
   @media screen and (max-width: 568px) {
     .lead__image-container {
-  
       padding: 0 0 8px;
     }
   }

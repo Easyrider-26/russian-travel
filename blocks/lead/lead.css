@@ -5,14 +5,11 @@
     font-family: 'Inter';
     box-sizing: border-box;
     margin: 0 0 92px;
-
 }
 
-  
   @media screen and (max-width: 984px) {
     .lead {
         margin: 0 0 88px;
-  
     }
   }
   

@@ -4,9 +4,7 @@
     max-height: 100%;
     grid-column: 1/2;
     margin-bottom: 80px;
-
 }
-
 
 @media screen and (max-width: 1140px) {
     .place__image {

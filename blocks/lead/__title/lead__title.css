@@ -7,8 +7,8 @@
   margin: 0 0 32px;
   max-width: 720px;
   width: 100%;
-  text-align: center; 
-  box-sizing: border-box;  
+  text-align: center;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 668px) {
