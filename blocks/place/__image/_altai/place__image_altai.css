@@ -1,0 +1,11 @@
+@media screen and (max-width: 984px) {
+  .place__image_altai {
+    margin-bottom: 122px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+    .place__image_altai {
+        margin-bottom: 0;
+    }
+  }

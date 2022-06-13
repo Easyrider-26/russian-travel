@@ -1,0 +1,14 @@
+.intro__list-item {
+  list-style: none;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  margin: 0;
+
+}
+/**
+.intro__list-item:last-of-type {
+    margin-bottom: 92px;
+}
