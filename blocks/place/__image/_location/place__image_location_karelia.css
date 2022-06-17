@@ -1,0 +1,15 @@
+.place__image_location_karelia {
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 984px) {
+    .place__image_location_karelia {
+      margin-bottom: 140px;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+      .place__image_location_karelia {
+          margin-bottom: 0;
+      }
+    }

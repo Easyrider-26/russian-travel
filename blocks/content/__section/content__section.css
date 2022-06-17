@@ -5,9 +5,3 @@ padding: 0;
 margin: 0 auto;
 max-width: 1280px;
 }
-
-@media screen and (max-width: 1140px) {
-  .content__section {
-      padding: 0;
-  }
-}

@@ -17,10 +17,12 @@
     .place {
       gap: 48px 28px;
       margin: 0 24px;
+      grid-template-columns: 340px auto;
+
     }
   }
   
-  @media screen and (max-width: 568px) {
+  @media screen and (max-width: 767px) {
     .place {
         margin: 0;
         grid-template-columns: repeat(1, auto);

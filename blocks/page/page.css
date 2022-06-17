@@ -3,11 +3,17 @@
     color: white;
     font-family: 'Inter', Arial, sans-serif;
     font-weight: 400;
-    min-width: 320px;
     max-width: 100%;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    padding: 28px 0 24px;
+    padding-top: 28px;
+    box-sizing: border-box;
 }
+
+@media screen and (max-width: 568px) {
+    .page {
+        padding-top: 16px;
+    }
+  }

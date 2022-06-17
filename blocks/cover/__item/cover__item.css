@@ -44,7 +44,6 @@
 @media screen and (max-width: 984px) {
   .cover__item {
     min-height: 480px;
-    margin: 0;
   }
 }
 
@@ -52,6 +51,5 @@
   .cover__item {
     padding: 10px;
     min-height: 200px;
-    margin: 0;
   }
 }
